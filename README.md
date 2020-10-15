@@ -100,6 +100,6 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
       </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenby&layout=compact" alt="zenby" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenby&layout=compact" alt="zenby" /></p>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=zenby&show_icons=true" alt="zenby" /></p>
