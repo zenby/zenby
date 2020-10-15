@@ -102,4 +102,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenby&layout=compact" alt="zenby" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zenby&show_icons=true" alt="zenby" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=zenby&show_icons=true" alt="zenby" /></p>
