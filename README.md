@@ -22,6 +22,14 @@
       height="30"
       width="40"
   /></a>
+  <a href="https://www.codewars.com/users/zenby" target="blank">
+   <img
+        align="center"
+        src="https://www.codewars.com/users/zenby/badges/micro"
+        alt="evgeniydainovich"
+        height="20"
+    />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
