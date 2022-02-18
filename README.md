@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Evgeniy</h1>
 <h3 align="center">A fullstack developer from Belarus</h3>
 
-- 🌱 I’m currently learning **AWS** - 💬 Ask me about **javascript, react, nodejs** - 📫 How to reach me
-**zenbysel@gmail.com**
+- 🌱 I’m currently focused on backend and cloud technologies such as **AWS**
+- 💬 Ask me about **javascript, react, nodejs**
+- 📫 How to reach me **zenbysel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
