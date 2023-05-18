@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evgeniy</h1>
-<h3 align="center">A fullstack developer from Belarus</h3>
+<h3 align="center">A fullstack developer</h3>
 
 - 🌱 I’m currently focused on backend and cloud technologies such as **AWS**
 - 💬 Ask me about **javascript, react, angular, nodejs**
