@@ -61,7 +61,7 @@
   </a>
   <a href="https://rxjs.dev/" target="_blank">
     <img
-      src="https://github.com/ReactiveX/rxjs/blob/master/docs_app/src/assets/images/logos/Rx_Logo_S.png"
+      src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png"
       alt="rxjs"
       width="40"
       height="40"
